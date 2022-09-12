@@ -5,14 +5,14 @@ permalink: LINKS/
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
 # LINKS
+1. [Linux / UNIX delete a file using rm command by nixCraft.](https://www.cyberciti.biz/faq/howto-linux-unix-delete-remove-file/)<br>
+Simple explanation on how to remove files and directories in Linux OS<br>
 
 <br>
 <hr>
