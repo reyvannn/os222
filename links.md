@@ -27,6 +27,9 @@ Beginner's guide to C Language<br>
 3. [Structures of Directory in Operating System](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)
 4. [How to Encrypt and Decrypt Files With GPG on Linux](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/)
 
+### WEEK 04
+1. [Pointer in C Language](https://www.guru99.com/c-pointers.html)
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
