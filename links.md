@@ -31,6 +31,8 @@ Beginner's guide to C Language<br>
 
 8. [Pointer in C Language](https://www.guru99.com/c-pointers.html)
 
+9. [Fork in C](https://www.interviewkickstart.com/learn/fork-in-c)
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
