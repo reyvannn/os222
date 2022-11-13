@@ -33,6 +33,8 @@ Beginner's guide to C Language<br>
 
 9. [Fork in C](https://www.interviewkickstart.com/learn/fork-in-c)
 
+10. [How to copy files from one machine to another using ssh](https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh)
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
